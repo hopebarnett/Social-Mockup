@@ -1,0 +1,131 @@
+
+    * {
+        box-sizing: border-box;
+
+
+    }
+
+
+     .container {
+
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUIVpcdmRMabRUL_bsivR7KhH8Jw_jQoWjGZDOv2PeStXt3yBg&usqp=CAU");
+        width: 850px;
+        height: 200px;
+        /* border: 2px solid black; */
+        margin: auto;
+     }
+      
+
+        .div1 {
+
+            text-transform: none;
+            font-family: 'Lucida Sans';
+            font-size: larger;
+            font-weight: bold;
+        }
+
+        .top-right {
+
+            position: relative;
+            top: 65px;
+            left: 320px;
+            color: white;
+
+        }
+
+        .top-right a {
+
+            position: relative;
+            color: wheat;
+            left: 100px;
+            font-size: large;
+
+        }
+
+        .headings {
+
+            position: relative;
+            top: 120px;
+            left: 320px;
+
+
+        }
+        .headings span {
+
+            margin-left: 20px;
+
+        }
+
+
+        .buttons {
+
+            position: relative;
+            top: 130px;
+            left: 390px;
+
+        }
+        
+        .btn {
+
+            border: 1px solid black;
+            background-color: wheat; 
+            padding: 5px 10px;
+
+        }
+
+
+        
+        .main {
+
+            width: 850px;
+            height: 750px;
+            margin: auto;
+            
+            
+        }
+    
+
+        .div2 {
+
+            width: 328px;
+            height: 750px;
+            border: 1px solid black;
+            float: left;
+        }    
+        
+
+        .timeline {
+
+            position: relative;
+            width: 200px;
+            padding: 130px;
+            border: 1px solid black;   
+            font-size: 15px;
+            top: 10px;
+            left: 10px;
+            text-align: start;
+            
+        } 
+
+        .div3 {
+
+            width: 512px;
+            height: 750px;
+            border: 1px solid black;
+            float: right;
+
+        }
+ 
+        .welcome {
+
+            position: relative;
+            width: 200px;
+            padding: 130px;
+            border: 1px solid black;
+            font-size: 15px;
+            top: 60px;
+            left: 90px;
+            text-align: center;
+
+        }
+
